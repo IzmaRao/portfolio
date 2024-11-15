@@ -4,7 +4,6 @@ import Link from 'next/link';
 import p1 from '../../../../public/p1.png';
 import p2 from '../../../../public/p2.png';
 import p3 from '../../../../public/p3.png';
-import p4 from '../../../../public/p3.png';
 import p5 from '../../../../public/p5.png';
 
 
@@ -70,7 +69,7 @@ function projects() {
 
       <div data-aos="fade-up" className='project-two'>
       <div>
-        <Image data-aos="fade-up" className='project-two-img' alt='img' src={p4}/>
+        <Image data-aos="fade-up" className='project-two-img' alt='img' src={p3}/>
         </div>
         <div className='projects-content-two'>
         <h3 data-aos="fade-up" className='project-two-h'>Dynamic Resume Generator Project</h3>
