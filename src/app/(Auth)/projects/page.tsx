@@ -22,7 +22,7 @@ function projects() {
         <div className='project-one-content-div'> 
         <p className='project-one-p'>Developed a responsive clone of the Governor of Sindh&apos;s website using Tailwind CSS and TypeScript, focusing on clean design and cross-device functionality</p>
           <div>
-          <Link type='get' href='https://giaic-website-three.vercel.app/'>
+          <Link href='https://giaic-website-three.vercel.app/'>
             <button className='project-btn'>View My Project</button>
           </Link>
           </div>
