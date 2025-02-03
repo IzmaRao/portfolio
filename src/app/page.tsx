@@ -23,8 +23,8 @@ export default function Home(){
     <div className="home-div" data-aos="fade-up">
       <div className="div-home-content">
         <h1 data-aos="fade-up">Hey, I&apos;m <span className='home-myname'>Izma</span> </h1>
-        <h2 data-aos="fade-up">Full Stack Devolper</h2>
-        <p data-aos="fade-up">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Obcaecati itaque autem, quod quidem delectus suscipit asperiores quibusdam ad quia minima mollitia expedita blan asumenda fugat doloribs animi posimus illo dolorem, tempora ullam dolore Nesiunt, sequi.</p>
+        <h2 data-aos="fade-up">Frontend Developer</h2>
+        <p data-aos="fade-up">Passionate about turning ideas into interactive realities with clean, efficient code. Specializing in responsive design and user-centric interfaces that blend aesthetics with functionality. Let's build the web of tomorrow, today!</p>
         <div data-aos="fade-up">
           <div>
             <button className='home-btn'>View My Work</button>
