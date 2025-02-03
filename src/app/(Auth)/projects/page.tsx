@@ -5,6 +5,7 @@ import p1 from '../../../../public/p1.png';
 import p2 from '../../../../public/p2.png';
 import p3 from '../../../../public/p3.png';
 import p5 from '../../../../public/p5.png';
+import ecommerce from '../../../../public/ecommerce.PNG';
 
 
 function projects() {
@@ -100,6 +101,25 @@ function projects() {
         <Image data-aos="fade-up" className='project-one-img' alt='img' src={p5}/>
         </div>
       </div>
+
+       <div data-aos="fade-up" className='project-two'>
+      <div>
+        <Image data-aos="fade-up" className='project-two-img' alt='img' src={p3}/>
+        </div>
+        <div className='projects-content-two'>
+        <h3 data-aos="fade-up" className='project-two-h'>E-commerce Furniture Website</h3>
+        <div className='project-two-content-div'>  
+        <p className='project-two-p'>For our latest hackathon, I developed a comprehensive and visually appealing E-commerce Furniture Website. The project showcases a modern approach to online shopping, featuring a range of furniture products.</p>
+          <div>
+          <Link href='https://ui-ux-hackathon-xi.vercel.app/'>
+          <button className='project-btn'>View My Project</button>
+          </Link>
+          </div>
+        </div>
+        </div>
+      </div>
+
+      
     </div>
 
   </div>
