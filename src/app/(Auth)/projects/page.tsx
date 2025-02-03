@@ -5,7 +5,7 @@ import p1 from '../../../../public/p1.png';
 import p2 from '../../../../public/p2.png';
 import p3 from '../../../../public/p3.png';
 import p5 from '../../../../public/p5.png';
-import ecommerce from '../../../../public/ecommerce.PNG';
+import ecommerce from '../../../../public/ecommerce.png';
 
 
 function projects() {
