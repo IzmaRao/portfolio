@@ -104,7 +104,7 @@ function projects() {
 
        <div data-aos="fade-up" className='project-two'>
       <div>
-        <Image data-aos="fade-up" className='project-two-img' alt='img' src={ecommerce}/>
+        <Image width="435" height="275" data-aos="fade-up" className='project-two-img' alt='img' src={ecommerce}/>
         </div>
         <div className='projects-content-two'>
         <h3 data-aos="fade-up" className='project-two-h'>E-commerce Furniture Website</h3>
