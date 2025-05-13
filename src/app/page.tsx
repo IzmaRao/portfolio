@@ -27,7 +27,7 @@ export default function Home(){
         <p data-aos="fade-up">Passionate about turning ideas into interactive realities with clean, efficient code. Specializing in responsive design and user-centric interfaces that blend aesthetics with functionality. Let&apos;s build the web of tomorrow, today!</p>
         <div data-aos="fade-up">
           <div>
-            <button className='home-btn'>View My Work</button>
+            <Link href="#projects"><button className='home-btn'>View My Work</button></Link>
           </div>
           <div>
             <Link href={'https://www.linkedin.com/in/izma-ikhlaque-42a54329b/'}>
