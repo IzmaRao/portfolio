@@ -80,6 +80,16 @@ function skills() {
         </div>
       </div>
 
+      <div data-aos="fade-up">
+      <div className='skill-div-one'>
+      <h3 className='skill'>Python</h3>
+      <h3 className='skill-per'>70%</h3>
+      </div>
+        <div className='outer-project-line'>
+          <div className='inner-project-linef'></div>
+        </div>
+      </div>
+
 
     </div>
   </div>
